@@ -170,3 +170,6 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+
+sphinx-apidoc -o docs/source/api src/
